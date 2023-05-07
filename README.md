@@ -1,3 +1,3 @@
 Q9) Calculate Skewness, Kurtosis & draw inferences on the following data
-      Cars speed and distance 
-      SP and Weight(WT)
+      a- Cars speed and distance 
+      b- SP and Weight(WT)
